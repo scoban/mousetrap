@@ -14,3 +14,9 @@ Mouse Trap Board Game - TCP Socket Programming
 
 
 ## System Decisions
+
+
+## Game Board
+![/mousetrap_board.png](https://github.com/scoban/mousetrap/blob/6bb39eddf9d77db7d79d2394ff4dce7622b418bf/mousetrap_board.jpg)
+
+
